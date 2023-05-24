@@ -1,0 +1,55 @@
+2023-05-24 01:05:466 INFO  HomePage :28 - click On Bank Manager Login Tab[[ChromeDriver: chrome on WINDOWS (c872fc71b05a8a647c0a31514a6ab1ac)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2023-05-24 01:05:810 INFO  BankManagerLoginPage :37 - click On Add Customer Tab[[ChromeDriver: chrome on WINDOWS (c872fc71b05a8a647c0a31514a6ab1ac)] -> xpath: //button[normalize-space()='Add Customer']]
+2023-05-24 01:05:152 INFO  AddCustomerPage :41 - Enter First Name[[ChromeDriver: chrome on WINDOWS (c872fc71b05a8a647c0a31514a6ab1ac)] -> xpath: //input[@placeholder='First Name']]
+2023-05-24 01:05:328 INFO  AddCustomerPage :48 - Enter Last Name[[ChromeDriver: chrome on WINDOWS (c872fc71b05a8a647c0a31514a6ab1ac)] -> xpath: //input[@placeholder='Last Name']]
+2023-05-24 01:05:451 INFO  AddCustomerPage :55 - Enter PostCode[[ChromeDriver: chrome on WINDOWS (c872fc71b05a8a647c0a31514a6ab1ac)] -> xpath: //input[@placeholder='Post Code']]
+2023-05-24 01:05:566 INFO  AddCustomerPage :62 - Click On Add Button[[ChromeDriver: chrome on WINDOWS (c872fc71b05a8a647c0a31514a6ab1ac)] -> xpath: //button[@type='submit']]
+2023-05-24 01:05:628 INFO  AddCustomerPage :69 - Popup Display
+2023-05-24 01:05:654 INFO  AddCustomerPage :69 - Popup Display
+2023-05-24 01:05:696 INFO  AddCustomerPage :76 - Accept alert
+2023-05-24 01:05:246 INFO  HomePage :28 - click On Bank Manager Login Tab[[ChromeDriver: chrome on WINDOWS (987904768054f2461dc8e01f18575bf5)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2023-05-24 01:05:568 INFO  OpenAccountPage :40 - click On Open Account Tab[[ChromeDriver: chrome on WINDOWS (987904768054f2461dc8e01f18575bf5)] -> xpath: //button[normalize-space()='Open Account']]
+2023-05-24 01:05:946 INFO  OpenAccountPage :46 - Search customer that created in first test[[ChromeDriver: chrome on WINDOWS (987904768054f2461dc8e01f18575bf5)] -> xpath: //select[@id='userSelect']]
+2023-05-24 01:05:98 INFO  OpenAccountPage :53 - Select currency Pound[[ChromeDriver: chrome on WINDOWS (987904768054f2461dc8e01f18575bf5)] -> xpath: //select[@id='currency']]
+2023-05-24 01:05:186 INFO  OpenAccountPage :59 - click on process button[[ChromeDriver: chrome on WINDOWS (987904768054f2461dc8e01f18575bf5)] -> xpath: //button[normalize-space()='Process']]
+2023-05-24 01:05:237 INFO  AddCustomerPage :69 - Popup Display
+2023-05-24 01:05:263 INFO  OpenAccountPage :71 - Accept alert
+2023-05-24 01:05:279 INFO  OpenAccountPage :66 - Popup Displayed and verify Message
+2023-05-24 01:05:976 INFO  HomePage :33 - click on Customer Login Tab[[ChromeDriver: chrome on WINDOWS (d22177a57b212324d5c2b7fdc08be715)] -> xpath: //button[normalize-space()='Customer Login']]
+2023-05-24 01:05:314 INFO  CustomerLoginPage :43 - search customer that you created.[[ChromeDriver: chrome on WINDOWS (d22177a57b212324d5c2b7fdc08be715)] -> xpath: //select[@id='userSelect']]
+2023-05-24 01:05:411 INFO  CustomerLoginPage :50 - click on Login Button[[ChromeDriver: chrome on WINDOWS (d22177a57b212324d5c2b7fdc08be715)] -> xpath: //button[normalize-space()='Login']]
+2023-05-24 01:05:456 INFO  CustomerLoginPage :59 - verify Logout Tab displayed.By.xpath: //button[normalize-space()='Logout']
+2023-05-24 01:05:531 INFO  CustomerLoginPage :67 - click on Logout[[ChromeDriver: chrome on WINDOWS (d22177a57b212324d5c2b7fdc08be715)] -> xpath: //button[normalize-space()='Logout']]
+2023-05-24 01:05:627 INFO  CustomerLoginPage :74 - verify Your Name text displayed.[[ChromeDriver: chrome on WINDOWS (d22177a57b212324d5c2b7fdc08be715)] -> xpath: //label[contains(text(),'Your Name :')]]
+2023-05-24 01:05:132 INFO  HomePage :33 - click on Customer Login Tab[[ChromeDriver: chrome on WINDOWS (2ac9c35fc7ffcbf32cb39313590f1ea8)] -> xpath: //button[normalize-space()='Customer Login']]
+2023-05-24 01:05:510 INFO  CustomerLoginPage :43 - search customer that you created.[[ChromeDriver: chrome on WINDOWS (2ac9c35fc7ffcbf32cb39313590f1ea8)] -> xpath: //select[@id='userSelect']]
+2023-05-24 01:05:600 INFO  CustomerLoginPage :50 - click on Login Button[[ChromeDriver: chrome on WINDOWS (2ac9c35fc7ffcbf32cb39313590f1ea8)] -> xpath: //button[normalize-space()='Login']]
+2023-05-24 01:05:909 INFO  AccountPage :54 - click on Deposit Tab[[ChromeDriver: chrome on WINDOWS (2ac9c35fc7ffcbf32cb39313590f1ea8)] -> xpath: //button[normalize-space()='Deposit']]
+2023-05-24 01:05:12 INFO  AccountPage :61 - Enter amount 100
+2023-05-24 01:05:720 INFO  HomePage :28 - click On Bank Manager Login Tab[[ChromeDriver: chrome on WINDOWS (9d227e8f6f29567ccebc6a6187f574c4)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2023-05-24 01:05:74 INFO  BankManagerLoginPage :37 - click On Add Customer Tab[[ChromeDriver: chrome on WINDOWS (9d227e8f6f29567ccebc6a6187f574c4)] -> xpath: //button[normalize-space()='Add Customer']]
+2023-05-24 01:05:419 INFO  AddCustomerPage :41 - Enter First Name[[ChromeDriver: chrome on WINDOWS (9d227e8f6f29567ccebc6a6187f574c4)] -> xpath: //input[@placeholder='First Name']]
+2023-05-24 01:05:545 INFO  AddCustomerPage :48 - Enter Last Name[[ChromeDriver: chrome on WINDOWS (9d227e8f6f29567ccebc6a6187f574c4)] -> xpath: //input[@placeholder='Last Name']]
+2023-05-24 01:05:676 INFO  AddCustomerPage :55 - Enter PostCode[[ChromeDriver: chrome on WINDOWS (9d227e8f6f29567ccebc6a6187f574c4)] -> xpath: //input[@placeholder='Post Code']]
+2023-05-24 01:05:774 INFO  AddCustomerPage :62 - Click On Add Button[[ChromeDriver: chrome on WINDOWS (9d227e8f6f29567ccebc6a6187f574c4)] -> xpath: //button[@type='submit']]
+2023-05-24 01:05:845 INFO  AddCustomerPage :69 - Popup Display
+2023-05-24 01:05:867 INFO  AddCustomerPage :69 - Popup Display
+2023-05-24 01:05:899 INFO  AddCustomerPage :76 - Accept alert
+2023-05-24 01:05:317 INFO  HomePage :28 - click On Bank Manager Login Tab[[ChromeDriver: chrome on WINDOWS (6c634bc655e57fbdd480c87c75382bfd)] -> xpath: //button[normalize-space()='Bank Manager Login']]
+2023-05-24 01:05:683 INFO  OpenAccountPage :40 - click On Open Account Tab[[ChromeDriver: chrome on WINDOWS (6c634bc655e57fbdd480c87c75382bfd)] -> xpath: //button[normalize-space()='Open Account']]
+2023-05-24 01:05:64 INFO  OpenAccountPage :46 - Search customer that created in first test[[ChromeDriver: chrome on WINDOWS (6c634bc655e57fbdd480c87c75382bfd)] -> xpath: //select[@id='userSelect']]
+2023-05-24 01:05:160 INFO  OpenAccountPage :53 - Select currency Pound[[ChromeDriver: chrome on WINDOWS (6c634bc655e57fbdd480c87c75382bfd)] -> xpath: //select[@id='currency']]
+2023-05-24 01:05:243 INFO  OpenAccountPage :59 - click on process button[[ChromeDriver: chrome on WINDOWS (6c634bc655e57fbdd480c87c75382bfd)] -> xpath: //button[normalize-space()='Process']]
+2023-05-24 01:05:296 INFO  AddCustomerPage :69 - Popup Display
+2023-05-24 01:05:331 INFO  OpenAccountPage :71 - Accept alert
+2023-05-24 01:05:784 INFO  HomePage :33 - click on Customer Login Tab[[ChromeDriver: chrome on WINDOWS (8db87c195bebb23b3bd124fbf6efff23)] -> xpath: //button[normalize-space()='Customer Login']]
+2023-05-24 01:05:168 INFO  CustomerLoginPage :43 - search customer that you created.[[ChromeDriver: chrome on WINDOWS (8db87c195bebb23b3bd124fbf6efff23)] -> xpath: //select[@id='userSelect']]
+2023-05-24 01:05:265 INFO  CustomerLoginPage :50 - click on Login Button[[ChromeDriver: chrome on WINDOWS (8db87c195bebb23b3bd124fbf6efff23)] -> xpath: //button[normalize-space()='Login']]
+2023-05-24 01:05:309 INFO  CustomerLoginPage :59 - verify Logout Tab displayed.By.xpath: //button[normalize-space()='Logout']
+2023-05-24 01:05:382 INFO  CustomerLoginPage :67 - click on Logout[[ChromeDriver: chrome on WINDOWS (8db87c195bebb23b3bd124fbf6efff23)] -> xpath: //button[normalize-space()='Logout']]
+2023-05-24 01:05:488 INFO  CustomerLoginPage :74 - verify Your Name text displayed.[[ChromeDriver: chrome on WINDOWS (8db87c195bebb23b3bd124fbf6efff23)] -> xpath: //label[contains(text(),'Your Name :')]]
+2023-05-24 01:05:18 INFO  HomePage :33 - click on Customer Login Tab[[ChromeDriver: chrome on WINDOWS (80e507c974b9378f184cfd24acc2d3ec)] -> xpath: //button[normalize-space()='Customer Login']]
+2023-05-24 01:05:401 INFO  CustomerLoginPage :43 - search customer that you created.[[ChromeDriver: chrome on WINDOWS (80e507c974b9378f184cfd24acc2d3ec)] -> xpath: //select[@id='userSelect']]
+2023-05-24 01:05:498 INFO  CustomerLoginPage :50 - click on Login Button[[ChromeDriver: chrome on WINDOWS (80e507c974b9378f184cfd24acc2d3ec)] -> xpath: //button[normalize-space()='Login']]
+2023-05-24 01:05:821 INFO  AccountPage :54 - click on Deposit Tab[[ChromeDriver: chrome on WINDOWS (80e507c974b9378f184cfd24acc2d3ec)] -> xpath: //button[normalize-space()='Deposit']]
+2023-05-24 01:05:916 INFO  AccountPage :61 - Enter amount 100
